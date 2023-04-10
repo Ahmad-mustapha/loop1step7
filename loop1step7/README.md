@@ -12,7 +12,7 @@ Clone or download this repository and run with a local server of open `index.htm
 ## Demo
 [Go live](https://rawcdn.githack.com/Ahmad-mustapha/loop1step7/4a7f6dd6fc6ae1abda41db9d0a964ec3ec9caead/loop1step7/index.html)
 
-![screenshot](./img/loop1step2.png)
+![screenshot](./img/loop1step7.png)
 ## Contact
 If you want to contact me you can reach me at
 - ahmadishola12@gmail.com
