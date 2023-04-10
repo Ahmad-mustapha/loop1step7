@@ -12,7 +12,6 @@ body{
     height: 75vh;
     display: flex;
     align-items: center;
-    /* justify-content: center; */
     margin: 4rem auto;
     box-shadow: 0 0 .7rem rgba(0, 0, 0, 0.3);
 }
@@ -36,16 +35,17 @@ body{
 #para{
     font-weight: bolder;
 }
-#bord{
+#border{
+    width: 6rem;
+    height: .7rem;
     border-bottom: .25rem solid #e37b62;
-    width: 3rem;
-    padding-bottom: .3rem;
+    margin-top: .3rem;
 }
 .foot{
     display: flex;
     align-items: center;
     gap: 1rem;
-    margin-top: 15rem;
+    margin-top: 17rem;
 }
 .col2{
     width: 100%;
