@@ -34,6 +34,7 @@ body{
 }
 #para{
     font-weight: bolder;
+    font-family: sans-serif;
 }
 #border{
     width: 6rem;
